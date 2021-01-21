@@ -20,7 +20,5 @@ public class Main {
         Adapter adapter = new Adapter(iPhone);
         adapter.useMicroUsb();
         adapter.recharge();
-
-
     }
 }
