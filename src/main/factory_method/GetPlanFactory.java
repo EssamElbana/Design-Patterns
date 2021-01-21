@@ -1,4 +1,4 @@
-package factory_method;
+package main.factory_method;
 
 public class GetPlanFactory {
 

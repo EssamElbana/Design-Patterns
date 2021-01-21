@@ -1,4 +1,4 @@
-package factory_method;
+package main.factory_method;
 
 import java.io.BufferedReader;
 import java.io.IOException;
