@@ -1,6 +1,6 @@
 package test;
 
-import main.factory_method.*;
+import main.creational.factory_method.*;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;

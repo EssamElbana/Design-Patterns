@@ -1,6 +1,4 @@
-package main.prototype;
-
-import java.io.IOException;
+package main.creational.prototype;
 
 public class Main {
     public static void main(String[] args) {

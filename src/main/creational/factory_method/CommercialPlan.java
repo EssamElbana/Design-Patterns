@@ -1,4 +1,4 @@
-package main.factory_method;
+package main.creational.factory_method;
 
 public class CommercialPlan extends Plan {
     @Override

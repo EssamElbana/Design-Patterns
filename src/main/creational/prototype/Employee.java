@@ -1,4 +1,4 @@
-package main.prototype;
+package main.creational.prototype;
 
 public class Employee implements ProtoType {
 

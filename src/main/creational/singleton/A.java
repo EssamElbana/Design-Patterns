@@ -1,6 +1,4 @@
-package main.singleton;
-
-import java.awt.event.WindowStateListener;
+package main.creational.singleton;
 
 public class A {
     private A() {

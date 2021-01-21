@@ -1,7 +1,5 @@
-package main.singleton;
+package main.creational.singleton;
 
-
-import java.io.IOException;
 
 public class Main {
 

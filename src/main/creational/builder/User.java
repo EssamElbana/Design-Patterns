@@ -1,4 +1,4 @@
-package main.builder;
+package main.creational.builder;
 
 public class User {
     //All final attributes
